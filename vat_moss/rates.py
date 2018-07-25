@@ -112,7 +112,7 @@ BY_COUNTRY = {
         }
     },
     'GR': {  # Greece
-        'rate': Decimal('0.23'),
+        'rate': Decimal('0.24'),
         'exceptions': {
             'Mount Athos': Decimal('0.0')
         }
@@ -159,7 +159,7 @@ BY_COUNTRY = {
         }
     },
     'RO': {  # Romania
-        'rate': Decimal('0.24')
+        'rate': Decimal('0.19')
     },
     'SE': {  # Sweden
         'rate': Decimal('0.25')
